@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hensa Rewritten.<br>👯 I’m looking to collaborate on more Front-End Projects.<br>🌱 I’m currently learning React Native, DevExpress, GoLang.<br>
+🔭 I’m currently working on Hensa Team.<br>👯 I’m looking to collaborate on more Front-End Projects.<br>🌱 I’m currently using React Native, DevExpress, GoLang.<br>
 
 
 # 💻 Tech Stack:
